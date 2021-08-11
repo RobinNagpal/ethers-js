@@ -27,3 +27,9 @@ build/
 
 # Misc
 .DS_Store
+
+
+*.iml
+
+.idea
+.envrc
